@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /case-studies
 
 Sitemap: https://trackhawkadvisors.com/sitemap.xml
